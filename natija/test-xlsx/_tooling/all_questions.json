@@ -1,0 +1,1028 @@
+{
+  "001": [
+    {
+      "q": "Bakteriologik laboratoriya binosi funksional jihatdan nechta asosiy zonaga ajratiladi?",
+      "A": "To'rt zona, har bir usul uchun alohida",
+      "B": "Besh zona, patogenlik guruhi bo'yicha",
+      "C": "Bir umumiy ishchi zona, bo'linmasdan",
+      "D": "Ikki zona: toza va ifloslangan zona",
+      "E": "Uch zona: toza, oraliq va sovuq zona",
+      "correct": "D",
+      "comment": "To'g'ri javob: Ikki zona: toza va ifloslangan zona. Bino toza (nozararli) va ifloslangan (ishchi) zonalarga bo'linadi. Manba: Mavzu materiali (001.docx); WHO. Laboratory biosafety manual, 4th ed. (2020)."
+    },
+    {
+      "q": "Laboratoriyada material va xodimlar harakati qaysi yo'nalishda tashkil etiladi?",
+      "A": "Vertikal, qavatma-qavat pastdan yuqoriga",
+      "B": "Doira bo'ylab, boshlang'ich nuqtaga qaytib",
+      "C": "«Toza» zonadan «ifloslangan» zona tomoniga",
+      "D": "«Ifloslangan» zonadan «toza» zonaga qarab",
+      "E": "Ixtiyoriy, qulaylikka qarab har tomonga",
+      "correct": "C",
+      "comment": "To'g'ri javob: «Toza» zonadan «ifloslangan» zona tomoniga. Teskari oqimga yo'l qo'yilmaydi; bu kesishgan ifloslanishning oldini oladi. Manba: Mavzu materiali (001.docx)."
+    },
+    {
+      "q": "Termostatda (inkubatorda) ekilgan material odatda qaysi haroratda inkubatsiya qilinadi?",
+      "A": "4–8 °C sovutgich rejimida",
+      "B": "42–45 °C yuqori rejimda",
+      "C": "50–55 °C termofil rejimda",
+      "D": "22–25 °C xona haroratida",
+      "E": "35–37 °C haroratda",
+      "correct": "E",
+      "comment": "To'g'ri javob: 35–37 °C haroratda. Aksariyat patogenlar odam tana haroratiga yaqin, 35–37 °C da optimal o'sadi. Manba: Mavzu materiali (001.docx); Leber AL (ed). CMPH, 4th ed. (ASM, 2016).",
+      "numeric": true
+    },
+    {
+      "q": "Immersion mikroskop bo'yalgan preparatlarni qaysi kattalashtirishda tekshirish uchun ishlatiladi?",
+      "A": "1000x immersiya ostida",
+      "B": "100x umumiy kattalashtirishda",
+      "C": "40x quruq ob'ektiv ostida",
+      "D": "10000x elektron darajada",
+      "E": "10x lupa darajasida",
+      "correct": "A",
+      "comment": "To'g'ri javob: 1000x immersiya ostida. Immersion mikroskop bo'yalgan preparatlarni 1000x da tekshiradi. Manba: Mavzu materiali (001.docx).",
+      "numeric": true
+    },
+    {
+      "q": "O'ta xavfli (I–II guruh) qo'zg'atuvchilar qatoriga quyidagilardan qaysi biri kiradi?",
+      "A": "Nordon sut bakteriyalari, laktobatsillar",
+      "B": "Vabo, o'lat va kuydirgi qo'zg'atuvchilari",
+      "C": "Tuproqdagi saprofit zamburug'lar",
+      "D": "Teri stafilokokklari va saprofitlar",
+      "E": "Oddiy ichak tayoqchasi, ya'ni E. coli",
+      "correct": "B",
+      "comment": "To'g'ri javob: Vabo, o'lat va kuydirgi qo'zg'atuvchilari. Ular bilan ish faqat maxsus rejimli, yuqori darajadagi laboratoriyalarda olib boriladi. Manba: Mavzu materiali (001.docx); CDC/NIH. BMBL, 6th ed. (2020)."
+    },
+    {
+      "q": "Oddiy bakteriologik laboratoriya qaysi biologik xavfsizlik darajasiga (BSL) javob berishi lozim?",
+      "A": "BSL-1, minimal darajaga",
+      "B": "BSL-2 darajasiga",
+      "C": "BSL-3, maxsus rejimga",
+      "D": "Hech qanday darajaga",
+      "E": "BSL-4, eng yuqori darajaga",
+      "correct": "B",
+      "comment": "To'g'ri javob: BSL-2 darajasiga. Oddiy laboratoriya III–IV patogenlik guruhi mikroblari bilan ishlab, BSL-2 talablariga javob berishi lozim. Manba: Mavzu materiali (001.docx); CDC/NIH. BMBL, 6th ed. (2020).",
+      "numeric": true
+    },
+    {
+      "q": "Avtoklav bakteriologik laboratoriyada asosan qaysi vazifani bajaradi?",
+      "A": "Idish va muhitlarni bug' bosimi bilan sterilizatsiyalaydi",
+      "B": "Suyuqliklarni yuqori tezlikda markazdan qochma kuch bilan ajratadi",
+      "C": "Namunalarni sovutib, uzoq muddat muzlatib saqlab turadi",
+      "D": "Xona havosini ultrabinafsha nur bilan nurlantirib tozalaydi",
+      "E": "Preparatlarni immersiya ostida 1000x kattalashtirib ko'rsatadi",
+      "correct": "A",
+      "comment": "To'g'ri javob: Idish va muhitlarni bug' bosimi bilan sterilizatsiyalaydi. Avtoklav zararli materialni ham sterilizatsiya qiladi. Manba: Mavzu materiali (001.docx)."
+    },
+    {
+      "q": "Ish stollari yuzasi qoplamasiga nisbatan asosiy talab qanday?",
+      "A": "Yumshoq, g'ovak va namlikni yaxshi shimadigan bo'lsin",
+      "B": "Yog'ochdan, tabiiy materialdan tayyorlangan bo'lsin",
+      "C": "Shaffof shishadan, nozik va mo'rt qilib qoplangan bo'lsin",
+      "D": "Kislota, ishqor va dezinfektantlarga chidamli bo'lsin",
+      "E": "Qog'oz qoplamali, bir martalik ishlatiladigan bo'lsin",
+      "correct": "D",
+      "comment": "To'g'ri javob: Kislota, ishqor va dezinfektantlarga chidamli bo'lsin. Qoplama (plastik yoki kafel) namlab tozalash va zararsizlantirishga imkon berishi lozim. Manba: Mavzu materiali (001.docx)."
+    },
+    {
+      "q": "Bakteritsid lampalar (UBL) laboratoriyada qaysi maqsadda o'rnatiladi?",
+      "A": "Preparatlarni qizdirib fiksatsiya qilish uchun",
+      "B": "Xonani isitib, haroratni ushlab turish uchun",
+      "C": "Xona havosi va yuzalarni zararsizlantirish uchun",
+      "D": "Namunalarni muzlatib, uzoq saqlash uchun",
+      "E": "Mikroblarni oziq moddalar bilan ta'minlash uchun",
+      "correct": "C",
+      "comment": "To'g'ri javob: Xona havosi va yuzalarni zararsizlantirish uchun. Ekish xonasida UBL o'rnatilishi majburiy hisoblanadi. Manba: Mavzu materiali (001.docx)."
+    },
+    {
+      "q": "Avtoklav va quruq-havoli sterilizator samaradorligi qanday nazorat qilinadi?",
+      "A": "Yiliga bir marta, tasodifiy tartibda tekshirib",
+      "B": "Vizual tarzda, tashqi ko'rinishiga qarab baholab",
+      "C": "Hech qanday maxsus nazoratsiz, ishonch asosida",
+      "D": "Xodimning subyektiv bahosi va tajribasiga ko'ra",
+      "E": "Fizikaviy, kimyoviy va biologik indikatorlar bilan",
+      "correct": "E",
+      "comment": "To'g'ri javob: Fizikaviy, kimyoviy va biologik indikatorlar bilan. Bu nazorat sterilizatsiyaning to'liq o'tganini tasdiqlaydi. Manba: Mavzu materiali (001.docx); Leber AL (ed). CMPH, 4th ed. (ASM, 2016)."
+    }
+  ],
+  "002": [
+    {
+      "q": "Laboratoriyada og'iz orqali pipetka bilan so'rishga munosabat qanday?",
+      "A": "Steril suyuqliklar bilan ishlashda ruxsat beriladi",
+      "B": "Qat'iyan man etiladi, mexanik pipetka ishlatiladi",
+      "C": "Kam xavfli mikroblar bilan ishlashda mumkin",
+      "D": "Zarur hollarda, diqqat bilan bajarilishi mumkin",
+      "E": "Tajribali xodimga ruxsat etiladi, ehtiyot bilan",
+      "correct": "B",
+      "comment": "To'g'ri javob: Qat'iyan man etiladi, mexanik pipetka ishlatiladi. Og'iz bilan so'rish yuqtirish xavfini tug'diradi. Manba: Mavzu materiali (002.docx); WHO. Laboratory biosafety manual, 4th ed. (2020)."
+    },
+    {
+      "q": "Patogen material bilan aerozol hosil qiluvchi ishlar qayerda bajariladi?",
+      "A": "Ochiq ish stolida, alanga yonida bemalol",
+      "B": "Oddiy tortma shkaf ichida, ehtiyotkorlik bilan",
+      "C": "Termostat ichida, iliq va nam sharoitda",
+      "D": "Yuvish bo'limida, oqar suv tagida turib",
+      "E": "Biologik xavfsizlik shkafida (laminar boksda)",
+      "correct": "E",
+      "comment": "To'g'ri javob: Biologik xavfsizlik shkafida (laminar boksda). Aerozol hosil qiluvchi barcha manipulyatsiyalar laminar boksda bajariladi. Manba: Mavzu materiali (002.docx)."
+    },
+    {
+      "q": "Qo'lqop yechilgandan keyin qo'lni yuvishga qanday qaraladi?",
+      "A": "Qo'lqop ishlatilgan bo'lsa, qo'lni yuvish shart emas",
+      "B": "Qo'l albatta yuviladi, ifloslanish ehtimoli bor",
+      "C": "Material to'kilgan bo'lsagina qo'lni yuvish kerak",
+      "D": "Ish kuni oxirida bir marta qo'l yuvilsa yetarli",
+      "E": "Antiseptik purkash qo'l yuvish o'rnini bosadi",
+      "correct": "B",
+      "comment": "To'g'ri javob: Qo'l albatta yuviladi, ifloslanish ehtimoli bor. Qo'lqop teshilishi yoki yechishda ifloslanish mumkin. Manba: Mavzu materiali (002.docx)."
+    },
+    {
+      "q": "Yuqumli material bilan ishda qovuzloq (petlya) qanday ishlatiladi?",
+      "A": "Kuydirilmasdan, faqat suv bilan yuvib ishlatiladi",
+      "B": "Sovutgichda sovitilgandan so'nggina ishlatiladi",
+      "C": "Alangaga keskin kiritiladi, issiq holda tegiziladi",
+      "D": "Alangaga asta kiritiladi, kulturaga issiq tegizilmaydi",
+      "E": "Har safar yangi qovuzloq olinib, eskisi tashlanadi",
+      "correct": "D",
+      "comment": "To'g'ri javob: Alangaga asta kiritiladi, kulturaga issiq tegizilmaydi. Bu aerozol hosil bo'lishini kamaytiradi. Manba: Mavzu materiali (002.docx)."
+    },
+    {
+      "q": "Sentrifuga ishlatilganda aerozol tarqalishini oldini olish uchun nima qilinadi?",
+      "A": "Aylantirish tezligi imkon qadar eng yuqori darajaga ko'tariladi",
+      "B": "Sentrifuga qopqog'i ochiq qoldirilgan holda ishlatiladi",
+      "C": "Probirkalar og'zi ochiq qoldirilgan holda aylantiriladi",
+      "D": "Probirkalar muvozanatlanib, qopqoqli stakanlarda aylantiriladi",
+      "E": "Faqat bitta probirka joylanib, muvozanatsiz aylantiriladi",
+      "correct": "D",
+      "comment": "To'g'ri javob: Probirkalar muvozanatlanib, qopqoqli stakanlarda aylantiriladi. Shunda probirka singan taqdirda aerozol tarqalmaydi. Manba: Mavzu materiali (002.docx)."
+    },
+    {
+      "q": "Terisida ochiq jarohati bo'lgan xodimga nisbatan qanday chora ko'riladi?",
+      "A": "Patogen material bilan ishlashdan vaqtincha chetlashtiriladi",
+      "B": "Jarohatni bog'lab, o'ta xavfli mikroblar bilan ishlayveradigan qilinadi",
+      "C": "Qo'shimcha qo'lqop kiyib, ishini davom ettiraveradigan qilinadi",
+      "D": "Jarohatga antiseptik surtib, ishlashda davom etaveradigan qilinadi",
+      "E": "Unga nisbatan hech qanday cheklov va chora qo'llanilmaydigan bo'ladi",
+      "correct": "A",
+      "comment": "To'g'ri javob: Patogen material bilan ishlashdan vaqtincha chetlashtiriladi. Shikastlangan teri yuqtirish uchun kirish darvozasi bo'ladi. Manba: Mavzu materiali (002.docx)."
+    },
+    {
+      "q": "Yuqumli (zararli) material qanday utilizatsiya qilinadi?",
+      "A": "Quritib, so'ng qayta ishlatishga yuboriladi",
+      "B": "Tashqariga, ochiq havoga chiqarib qo'yiladi",
+      "C": "To'g'ridan-to'g'ri kanalizatsiyaga oqizib yuboriladi",
+      "D": "Oddiy chiqindi qutisiga, boshqa axlat bilan tashlanadi",
+      "E": "Zararsizlantirilgach (avtoklavlashdan so'ng) tashlanadi",
+      "correct": "E",
+      "comment": "To'g'ri javob: Zararsizlantirilgach (avtoklavlashdan so'ng) tashlanadi. Yuqumli material zararsizlantirilmay utilizatsiya qilinmaydi. Manba: Mavzu materiali (002.docx); CDC/NIH. BMBL, 6th ed. (2020)."
+    },
+    {
+      "q": "Ish kuni oxirida ish stoli yuzasiga nisbatan qanday amal bajariladi?",
+      "A": "Unga umuman hech qanday ishlov berib o'tirilmaydi",
+      "B": "Toza oddiy suv bilan bir marta chayib qo'yiladi",
+      "C": "Dezinfeksiyalovchi eritma bilan artib tozalanadi",
+      "D": "Spirt purkab, darhol quruq latta bilan artiladi",
+      "E": "Quruq latta bilan changidan artib tozalab qo'yiladi",
+      "correct": "C",
+      "comment": "To'g'ri javob: Dezinfeksiyalovchi eritma bilan artib tozalanadi. So'ngra xona bakteritsid lampa bilan nurlantiriladi. Manba: Mavzu materiali (002.docx)."
+    },
+    {
+      "q": "Ish kiyimida (xalatda) laboratoriyadan tashqariga chiqishga munosabat qanday?",
+      "A": "Xalat toza bo'lsa, tashqariga chiqib kelish mumkin bo'ladi",
+      "B": "Oshxonaga borib kelishda ruxsat etilgan deb qaraladi",
+      "C": "Taqiqlanadi, infeksiya tarqalishining oldini oladi",
+      "D": "Qisqa vaqtga tashqariga chiqib kelishga ruxsat beriladi",
+      "E": "Dam olish xonasiga chiqishda ruxsat etilgan hisoblanadi",
+      "correct": "C",
+      "comment": "To'g'ri javob: Taqiqlanadi, infeksiya tarqalishining oldini oladi. Ish kiyimi faqat laboratoriya ichida kiyiladi. Manba: Mavzu materiali (002.docx); WHO. Laboratory biosafety manual, 4th ed. (2020)."
+    },
+    {
+      "q": "Har bir tekshirish namunasiga laboratoriyada qanday munosabatda bo'linadi?",
+      "A": "Har bir namuna potensial yuqumli deb hisoblanadi",
+      "B": "Faqat yo'llanmada infeksiya yozilgani xavfli sanaladi",
+      "C": "Sovutilgan namunalar xavfsiz deb hisoblanadi",
+      "D": "Ambulator bemor namunasi xavfsiz sanaladi",
+      "E": "Qon namunalaridan boshqasi xavfsiz deb qaraladi",
+      "correct": "A",
+      "comment": "To'g'ri javob: Har bir namuna potensial yuqumli deb hisoblanadi va shunga mos ehtiyotkorlik bilan ishlanadi. Manba: Mavzu materiali (002.docx); CDC/NIH. BMBL, 6th ed. (2020)."
+    }
+  ],
+  "003": [
+    {
+      "q": "Meningit shubhasida bakteriologik tekshirish uchun qaysi material olinadi?",
+      "A": "Siydik, o'rtacha oqimli porsiyasi",
+      "B": "Najas, toza idishga joylab olingan",
+      "C": "Likvor, steril probirkaga yig'ilgan",
+      "D": "Balg'am, ertalab yo'tal bilan olingan",
+      "E": "Tomoq surtmasi, steril tamponga",
+      "correct": "C",
+      "comment": "To'g'ri javob: Likvor, steril probirkaga yig'ilgan. U meningitda olinadi va darhol yetkaziladi. Manba: Mavzu materiali (003.docx); Tille PM. Bailey & Scott's Diagnostic Microbiology, 15th ed. (2022)."
+    },
+    {
+      "q": "Bakteriologik tekshiruvning «oltin standarti» qaysi usul hisoblanadi?",
+      "A": "Mikroskopik (surtmani ko'rish) usul",
+      "B": "Bakteriologik (kultural) usul",
+      "C": "Fizikaviy (zichlik o'lchash) usul",
+      "D": "Biologik (hayvonga yuborish) usul",
+      "E": "Serologik (antitelo aniqlash) usul",
+      "correct": "B",
+      "comment": "To'g'ri javob: Bakteriologik (kultural) usul. U mikrobni tirik ajratib, aniq identifikatsiya va antibiotikogramma qilishga imkon beradi. Manba: Mavzu materiali (003.docx)."
+    },
+    {
+      "q": "Tekshirish materialini olishning eng maqbul vaqti qachon?",
+      "A": "Istalgan vaqtda, buning farqi yo'q",
+      "B": "Antibiotik berilgach, davolash o'rtasida",
+      "C": "Bemor tuzalgach, sog'aygan holatda",
+      "D": "Antibiotik berilishidan oldin, o'tkir davrda",
+      "E": "Faqat kechqurun, ovqatdan keyin",
+      "correct": "D",
+      "comment": "To'g'ri javob: Antibiotik berilishidan oldin, o'tkir davrda. Antibiotik o'sishni bostirib, yolg'on manfiy natija beradi. Manba: Mavzu materiali (003.docx)."
+    },
+    {
+      "q": "PZR (polimeraza zanjir reaksiyasi) qaysi tekshirish usuliga mansub?",
+      "A": "Molekulyar usulga (nuklein kislota aniqlash)",
+      "B": "Fizik-kimyoviy ajratish va tozalash usuliga",
+      "C": "Mikroskopik usulga (surtmani bo'yab ko'rish)",
+      "D": "Serologik usulga (zardobda antitelo aniqlash)",
+      "E": "Biologik usulga (hayvon kasallantirib kuzatish)",
+      "correct": "A",
+      "comment": "To'g'ri javob: Molekulyar usulga (nuklein kislota aniqlash). PZR mikrob DNK yoki RNK sini aniqlaydi. Manba: Mavzu materiali (003.docx); Murray PR va boshq. Medical Microbiology, 9th ed. (2021)."
+    },
+    {
+      "q": "Anaerob mikroblarga shubha bo'lganda material qanday tashiladi?",
+      "A": "Muzlatib, keyin eritib yetkazilgan holda",
+      "B": "Ochiq idishda, havo bilan to'liq kontaktda",
+      "C": "Quruq filtr qog'ozga o'ralgan holda",
+      "D": "Qaynatilgan suvda saqlangan holda",
+      "E": "Havo bilan kam kontaktda, maxsus sharoitda",
+      "correct": "E",
+      "comment": "To'g'ri javob: Havo bilan kam kontaktda, maxsus sharoitda. Kislorod anaerob mikroblarni o'ldiradi. Manba: Mavzu materiali (003.docx); Leber AL (ed). CMPH, 4th ed. (ASM, 2016)."
+    },
+    {
+      "q": "Serologik usul bevosita nimani aniqlaydi?",
+      "A": "Mikrobning nuklein kislotasini (DNK, RNK)",
+      "B": "Hayvon organizmidagi kasallik rivojlanishini",
+      "C": "Koloniyaning tashqi morfologiyasi va rangini",
+      "D": "Antitelolarni yoki materialdagi antigenlarni",
+      "E": "Mikrobning tirik sof kulturasini ajratib",
+      "correct": "D",
+      "comment": "To'g'ri javob: Antitelolarni yoki materialdagi antigenlarni. Shu bois serologik usul ko'pincha retrospektiv tashxis beradi. Manba: Mavzu materiali (003.docx)."
+    },
+    {
+      "q": "Mikroskopik usulning asosiy xususiyati nimada?",
+      "A": "Tez, dastlabki yo'naltiruvchi ma'lumot beradi",
+      "B": "Natijani bir necha haftada taqdim etadi",
+      "C": "Antibiotiklarga sezuvchanlikni aniq belgilaydi",
+      "D": "Mikrobni har doim aniq identifikatsiya qiladi",
+      "E": "Faqat tirik mikrobni ajratib olib beradi",
+      "correct": "A",
+      "comment": "To'g'ri javob: Tez, dastlabki yo'naltiruvchi ma'lumot beradi. U ko'pincha mikrobni aniq identifikatsiya qila olmaydi. Manba: Mavzu materiali (003.docx)."
+    },
+    {
+      "q": "Har bir namunaga noyob raqam berilishining asosiy maqsadi nima?",
+      "A": "Laboratoriya daromadini aniq hisoblash",
+      "B": "Namunalarni chiroyli tartibda saralash",
+      "C": "Reaktiv sarfini sezilarli kamaytirish",
+      "D": "Tekshiruv natijasini bir muncha tezlatish",
+      "E": "Namunani bemor bilan bog'lab, adashtirmaslik",
+      "correct": "E",
+      "comment": "To'g'ri javob: Namunani bemor bilan bog'lab, adashtirmaslik. Bu kuzatuvchanlik (proslezhivayemost) tizimining asosi. Manba: Mavzu materiali (003.docx)."
+    },
+    {
+      "q": "Qon namunasi bakteriologik tekshiruvga qanday olinadi?",
+      "A": "Oddiy quruq probirkaga, qopqoqsiz holda",
+      "B": "Quruq filtr qog'ozga shimdirilgan holda",
+      "C": "Maxsus flakonga (gemokultura shishasiga)",
+      "D": "Ochiq Petri likobchasiga quyilgan holda",
+      "E": "Transport muhitli quruq tamponga olinib",
+      "correct": "C",
+      "comment": "To'g'ri javob: Maxsus flakonga (gemokultura shishasiga). Qon sepsis va umumiy infeksiyalarda shunday olinadi. Manba: Mavzu materiali (003.docx); Tille PM. Bailey & Scott's Diagnostic Microbiology, 15th ed. (2022)."
+    },
+    {
+      "q": "Material noto'g'ri turda tanlansa, qanday natija yuzaga keladi?",
+      "A": "Tekshiruv ikki barobar tezlashib ketadi",
+      "B": "Qo'zg'atuvchi topilmay, yolg'on manfiy natija",
+      "C": "Natija bir xil bo'ladi, buning farqi yo'q",
+      "D": "Antibiotikogramma yanada aniqroq chiqadi",
+      "E": "Natija har doim yolg'on musbat chiqadi",
+      "correct": "B",
+      "comment": "To'g'ri javob: Qo'zg'atuvchi topilmay, yolg'on manfiy natija. Material turi klinik tashxis va patogenezga mos tanlanadi. Manba: Mavzu materiali (003.docx)."
+    }
+  ],
+  "004": [
+    {
+      "q": "Zich muhitdan surtma tayyorlashda buyum oynasiga avval nima qilinadi?",
+      "A": "Oyna yog' bilan surtilib, oldindan tayyorlab qo'yiladi",
+      "B": "Bo'yoq eritmasi to'g'ridan-to'g'ri oyna ustiga tomiziladi",
+      "C": "Bir tomchi steril fiziologik eritma yoki suv tomiziladi",
+      "D": "Oynaga spirt quyilib, alangada yoqib yuboriladi",
+      "E": "Darhol koloniyadan quruq mikrob massasi surtib olinadi",
+      "correct": "C",
+      "comment": "To'g'ri javob: Bir tomchi steril fiziologik eritma yoki suv tomiziladi. Zich koloniya massasini suyultirish shart. Manba: Mavzu materiali (004.docx); Leber AL (ed). CMPH, 4th ed. (ASM, 2016)."
+    },
+    {
+      "q": "Koloniyadan material olishdan oldin qovuzloqqa nisbatan qanday amal bajariladi?",
+      "A": "Unga umuman hech qanday ishlov berib o'tirilmaydi",
+      "B": "Spirtga botirilib, ho'l (nam) holatda ishlatiladi",
+      "C": "Muzlatgichda oldindan sovitib olingach ishlatiladi",
+      "D": "Qizigan holicha to'g'ri koloniyaga tegiziladi",
+      "E": "Qizdirib sterilizatsiya qilinadi va sovitiladi",
+      "correct": "E",
+      "comment": "To'g'ri javob: Qizdirib sterilizatsiya qilinadi va sovitiladi. Qizigan qovuzloq mikroblarni o'ldirib, aerozol hosil qiladi. Manba: Mavzu materiali (004.docx)."
+    },
+    {
+      "q": "Optimal surtma qanday bo'lishi kerak?",
+      "A": "Yupqa, bir tekis va shaffofroq pardadek",
+      "B": "Juda siyrak, ko'zga deyarli ilinmaydigan",
+      "C": "Bir nuqtaga to'plangan qalin tomchi kabi",
+      "D": "Qalin va donador, mikroblar zich holda",
+      "E": "Butun oynani qoplaydigan keng dog' holida",
+      "correct": "A",
+      "comment": "To'g'ri javob: Yupqa, bir tekis va shaffofroq pardadek. Qalin surtmada morfologiyani aniq ko'rib bo'lmaydi. Manba: Mavzu materiali (004.docx)."
+    },
+    {
+      "q": "To'da bo'lib joylashgan kokklar qaysi mikroblarga xos belgi?",
+      "A": "Stafilokokklarga (uzum boshi kabi to'da)",
+      "B": "Diplokokklarga (juft-juft joylashuvchi)",
+      "C": "Sporali anaerob tayoqchalar guruhiga",
+      "D": "Streptokokklarga (zanjir hosil qiluvchi)",
+      "E": "Spiral shakldagi harakatchan mikroblarga",
+      "correct": "A",
+      "comment": "To'g'ri javob: Stafilokokklarga (uzum boshi kabi to'da). Zanjir kokklar streptokokklarga, juft kokklar diplokokklarga xos. Manba: Mavzu materiali (004.docx); Tille PM. Bailey & Scott's Diagnostic Microbiology, 15th ed. (2022)."
+    },
+    {
+      "q": "Surtma tayyorlash uchun qaysi yoshdagi kulturadan foydalanish tavsiya etiladi?",
+      "A": "Alangada kuydirilgan kultura qoldig'idan",
+      "B": "Juda eski, bir necha kunlik kulturadan",
+      "C": "Muzlatib saqlab qo'yilgan kulturadan",
+      "D": "Yosh, 18–24 soatlik kulturadan",
+      "E": "Quritib qoldirilgan eski kulturadan",
+      "correct": "D",
+      "comment": "To'g'ri javob: Yosh, 18–24 soatlik kulturadan. Eski kulturada hujayralar deformatsiyaga uchraydi. Manba: Mavzu materiali (004.docx).",
+      "numeric": true
+    },
+    {
+      "q": "Zich muhitdan juda ko'p material olinsa, surtma qanday chiqadi?",
+      "A": "Yupqa va bir tekis bo'lib, o'qish qulay chiqadi",
+      "B": "Unda mikroblar deyarli umuman topilmay qoladi",
+      "C": "O'z-o'zidan avtomatik tarzda to'liq bo'yaladi",
+      "D": "Shaffof va mikroskopda juda ravshan chiqadi",
+      "E": "Qalin bo'lib, hujayralar bir-biriga qalashadi",
+      "correct": "E",
+      "comment": "To'g'ri javob: Qalin bo'lib, hujayralar bir-biriga qalashadi va morfologiyani ko'rib bo'lmaydi. Manba: Mavzu materiali (004.docx)."
+    },
+    {
+      "q": "Petri likobchasida aralash o'sish bo'lsa, surtma qanday tayyorlanadi?",
+      "A": "Likobcha chayqatilib, aralash material olinadi",
+      "B": "Turli koloniyalardan alohida surtmalar olinadi",
+      "C": "Eng katta koloniyadan bitta surtma tayyorlanadi",
+      "D": "Barcha koloniyalardan bitta umumiy surtma olinadi",
+      "E": "Surtma umuman tayyorlanmay qoldiriladi",
+      "correct": "B",
+      "comment": "To'g'ri javob: Turli koloniyalardan alohida surtmalar olinadi. Tekshiruv maqsadiga mos izolyatsiyalangan koloniya tanlanadi. Manba: Mavzu materiali (004.docx)."
+    },
+    {
+      "q": "Material olingach, surtmani bir tekis dog' holida qanday o'lchamda yoyish tavsiya etiladi?",
+      "A": "Mikroskopik bir nuqta hajmida",
+      "B": "Butun oyna bo'ylab, chetigacha",
+      "C": "Taxminan 1–2 sm kattalikda",
+      "D": "Kamida 5–6 sm uzunlikda",
+      "E": "Oynaning faqat bitta burchagida",
+      "correct": "C",
+      "comment": "To'g'ri javob: Taxminan 1–2 sm kattalikda. Shunda surtma yupqa va bir tekis bo'ladi. Manba: Mavzu materiali (004.docx); Leber AL (ed). CMPH, 4th ed. (ASM, 2016).",
+      "numeric": true
+    },
+    {
+      "q": "Surtma tayyorlashda tez-tez uchraydigan tipik xato qaysi?",
+      "A": "Surtmani yupqa va bir tekis holda yoyish",
+      "B": "Preparatni aniq belgilab (markirovka) qo'yish",
+      "C": "Material olishdan oldin qovuzloqni sovitish",
+      "D": "Suv tomchisiz, juda ko'p material olish",
+      "E": "Yosh, 18–24 soatlik kulturadan foydalanish",
+      "correct": "D",
+      "comment": "To'g'ri javob: Suv tomchisiz, juda ko'p material olish. Natijada surtma qalin va notekis chiqadi. Manba: Mavzu materiali (004.docx)."
+    },
+    {
+      "q": "Zich muhitdan olingan surtma morfologik belgilarini talqin qilishda nega ehtiyot bo'linadi?",
+      "A": "Natija bir soat ichida eskirib qoladi",
+      "B": "Mexanik ajratish tabiiy joylashuvni qisman buzadi",
+      "C": "Bunday surtma umuman bo'yalmay qoladi",
+      "D": "Zich muhit mikroblarni butunlay o'ldirib qo'yadi",
+      "E": "Mikroblar o'z shaklini doimo o'zgartirib turadi",
+      "correct": "B",
+      "comment": "To'g'ri javob: Mexanik ajratish tabiiy joylashuvni qisman buzadi. Shu bois zarur hollarda suyuq muhit preparati bilan solishtiriladi. Manba: Mavzu materiali (004.docx)."
+    }
+  ],
+  "005": [
+    {
+      "q": "Suyuq muhitdan surtma tayyorlashda zich muhitdan asosiy farq nimada?",
+      "A": "Oyna avval qizdirilib sterilizatsiya qilinadi",
+      "B": "Material faqat sentrifugadan keyin olinadi",
+      "C": "Surtma har doim qalin va donador chiqadi",
+      "D": "Surtmaga albatta qo'shimcha bo'yoq tomiziladi",
+      "E": "Qo'shimcha suyuqlik (suv) tomizish shart emas",
+      "correct": "E",
+      "comment": "To'g'ri javob: Qo'shimcha suyuqlik (suv) tomizish shart emas. Suyuq muhitda mikroblar allaqachon suspenziya holatida bo'ladi. Manba: Mavzu materiali (005.docx); Leber AL (ed). CMPH, 4th ed. (ASM, 2016)."
+    },
+    {
+      "q": "Suyuq kulturadan material olishdan oldin probirkaga nima qilinadi?",
+      "A": "Avval alangada qaynatilib, so'ngra sovitib olinadi",
+      "B": "Ehtiyotkorlik bilan chayqatib, bir tekis taqsimlanadi",
+      "C": "Og'zi ochiq holda, bir kecha ochiq qoldiriladi",
+      "D": "Muzlatgichda yaxshilab qotirilgandan keyin olinadi",
+      "E": "Suyuqligi butunlay ag'darilib, to'kib yuboriladi",
+      "correct": "B",
+      "comment": "To'g'ri javob: Ehtiyotkorlik bilan chayqatib, bir tekis taqsimlanadi. Cho'kma suyuqlikka aralashadi. Manba: Mavzu materiali (005.docx)."
+    },
+    {
+      "q": "Likvor kabi mikroblari kam namunalardan surtma qanday tayyorlanadi?",
+      "A": "Ikki barobar suyultirilib, so'ng undan olinadi",
+      "B": "Filtrlab, filtr yuzasida qolgan qoldiqdan olinadi",
+      "C": "Sentrifugalab cho'ktirib, cho'kmadan olinadi",
+      "D": "Qaynatib, hosil bo'lgan bug'ini yig'ib olinadi",
+      "E": "Quritilib, hosil bo'lgan quruq kukundan olinadi",
+      "correct": "C",
+      "comment": "To'g'ri javob: Sentrifugalab cho'ktirib, cho'kmadan olinadi. Bu mikroskopiyaning sezgirligini oshiradi. Manba: Mavzu materiali (005.docx); Tille PM. Bailey & Scott's Diagnostic Microbiology, 15th ed. (2022)."
+    },
+    {
+      "q": "Suyuq muhit yuzasida parda hosil bo'lishi ko'pincha qanday mikroblarga ishora qiladi?",
+      "A": "Aerob mikroblarga",
+      "B": "Kapsulasiz streptokokklarga",
+      "C": "Kislotabardosh mikobakteriyalarga",
+      "D": "Harakatsiz oddiy kokklarga",
+      "E": "Sporali anaerob tayoqchalarga",
+      "correct": "A",
+      "comment": "To'g'ri javob: Aerob mikroblarga. Bir tekis loyqalanish harakatchan tayoqchalarga, tubidagi cho'kma ba'zi streptokokklarga xos bo'lishi mumkin. Manba: Mavzu materiali (005.docx)."
+    },
+    {
+      "q": "Qon surtmalarini bo'yashdan oldin qaysi fiksatsiya ko'pincha qo'llaniladi?",
+      "A": "Kislota bilan protrava qilish yo'li bilan",
+      "B": "Termik fiksatsiya, alangada qizdirib",
+      "C": "Kimyoviy fiksatsiya, odatda metanol bilan",
+      "D": "Muzlatib fiksatsiya qilish usuli bilan",
+      "E": "Ultrabinafsha nur bilan nurlantirib",
+      "correct": "C",
+      "comment": "To'g'ri javob: Kimyoviy fiksatsiya, odatda metanol bilan. Qon surtmasida fon oqsilga boy, kimyoviy fiksatsiya tuzilishni saqlaydi. Manba: Mavzu materiali (005.docx)."
+    },
+    {
+      "q": "Suyuq muhitdagi mikroblar soni va holati nimaga bog'liq?",
+      "A": "O'sish fazasiga (yosh yoki eski kultura)",
+      "B": "Buyum oynasining qalinligiga",
+      "C": "Ishlatiladigan bo'yoqning rangiga",
+      "D": "Faqat probirkaning shakli va o'lchamiga",
+      "E": "Laboratoriya xonasining yorug'ligiga",
+      "correct": "A",
+      "comment": "To'g'ri javob: O'sish fazasiga (yosh yoki eski kultura). Yosh kulturada hujayralar ko'p va bir xil, eskisida kamayadi. Manba: Mavzu materiali (005.docx)."
+    },
+    {
+      "q": "Probirkani chayqatganda suyuqlik og'ziga chiqib ketsa, qanday xavf yuzaga keladi?",
+      "A": "Suyuqlikdagi mikroblar darhol nobud bo'lib ketadi",
+      "B": "Tahlilning aniqligi aksincha yanada oshib ketadi",
+      "C": "Tekshiruv natijasi sezilarli darajada tezlashadi",
+      "D": "Aerozol hosil bo'lib, kontaminatsiya xavfi tug'iladi",
+      "E": "Surtma o'z-o'zidan avtomatik tarzda bo'yalib qoladi",
+      "correct": "D",
+      "comment": "To'g'ri javob: Aerozol hosil bo'lib, kontaminatsiya xavfi tug'iladi. Shu bois patogen material laminar boksda tayyorlanadi. Manba: Mavzu materiali (005.docx); WHO. Laboratory biosafety manual, 4th ed. (2020)."
+    },
+    {
+      "q": "Oqsilga boy suyuq muhitdan surtma qurigach qanday ko'rinishi mumkin?",
+      "A": "Ko'k, hech qanday bo'yoqsiz ham bo'ladi",
+      "B": "Fon qoramtir yoki donador bo'lishi mumkin",
+      "C": "Qora, xuddi kuygan dog' kabi bo'ladi",
+      "D": "Butunlay rangsiz va toza shaffof bo'ladi",
+      "E": "Yashil tusda porlab turadigan bo'ladi",
+      "correct": "B",
+      "comment": "To'g'ri javob: Fon qoramtir yoki donador bo'lishi mumkin. Buning oldini olish uchun material me'yorida olinadi va yupqa yoyiladi. Manba: Mavzu materiali (005.docx)."
+    },
+    {
+      "q": "Suyuq namunalardan surtma mikroskopiyasining klinik qiymati nimada?",
+      "A": "Antibiotikogrammani butunlay almashtiradi",
+      "B": "Kultural usulni mutlaqo ortiqcha qiladi",
+      "C": "Faqat o'lchov maqsadida ishlatib kelinadi",
+      "D": "Tez natija berib, meningitni erta aniqlaydi",
+      "E": "Natijani faqat bir haftada taqdim etadi",
+      "correct": "D",
+      "comment": "To'g'ri javob: Tez natija berib, meningitni erta aniqlaydi. Natija o'nlab daqiqalarda chiqishi mumkin. Manba: Mavzu materiali (005.docx)."
+    },
+    {
+      "q": "Suyuq muhitdan surtma tayyorlashda quyidagi xatolardan qaysi biri uchraydi?",
+      "A": "Preparatni quritgandan so'ng fiksatsiya qilish",
+      "B": "Aerozol chiqishini sinchkovlik bilan nazorat qilish",
+      "C": "Probirkani avval ehtiyotkorlik bilan chayqatish",
+      "D": "Surtmani yupqa va bir tekis holda yoyish",
+      "E": "Chayqatmay, cho'kmadan material olmaslik",
+      "correct": "E",
+      "comment": "To'g'ri javob: Chayqatmay, cho'kmadan material olmaslik. Bunda mikroblar suspenziyaga tushmaydi, surtma vakil bo'lmaydi. Manba: Mavzu materiali (005.docx)."
+    }
+  ],
+  "006": [
+    {
+      "q": "Surtma preparatni bo'yashdan oldin qaysi ikki bosqichdan o'tkazish zarur?",
+      "A": "Suv bilan yuvish va muzlatib qotirish",
+      "B": "Quritish va fiksatsiya qilish",
+      "C": "Sentrifugalash va filtrlab tozalash",
+      "D": "Suyultirish va keyin qaynatish",
+      "E": "Oziqa muhitiga ekish va inkubatsiya",
+      "correct": "B",
+      "comment": "To'g'ri javob: Quritish va fiksatsiya qilish. Bu bosqichlar mikroblarni oynaga biriktiradi va bo'yashga tayyorlaydi. Manba: Mavzu materiali (006.docx); Leber AL (ed). CMPH, 4th ed. (ASM, 2016)."
+    },
+    {
+      "q": "Nam (quritilmagan) surtma to'g'ridan-to'g'ri bo'yalsa, nima sodir bo'ladi?",
+      "A": "Bo'yoq ancha tejamli sarflanadi",
+      "B": "Mikroblar yanada yaxshiroq bo'yaladi",
+      "C": "Mikroblar yopishmay, yuvilib ketadi",
+      "D": "Fon ravshan va toza bo'lib qoladi",
+      "E": "Surtma o'z-o'zidan fiksatsiyalanadi",
+      "correct": "C",
+      "comment": "To'g'ri javob: Mikroblar yopishmay, yuvilib ketadi. Shu bois quritish va fiksatsiya majburiy. Manba: Mavzu materiali (006.docx)."
+    },
+    {
+      "q": "Surtma preparat qanday holatda quritilishi tavsiya etiladi?",
+      "A": "Muzlatgich ichida sovutib, qotirib qo'ygan holda",
+      "B": "Xona haroratida, havoda, gorizontal holatda",
+      "C": "Bevosita alangada, kuchli qizdirib turgan holda",
+      "D": "Qaynoq suvda cho'ktirib, ushlab turgan holda",
+      "E": "Vakuum kamerasida, yuqori bosim ostida",
+      "correct": "B",
+      "comment": "To'g'ri javob: Xona haroratida, havoda, gorizontal holatda. Tabiiy quritish hujayra shaklini eng yaxshi saqlaydi. Manba: Mavzu materiali (006.docx)."
+    },
+    {
+      "q": "Termik fiksatsiya mexanizmi nimaga asoslangan?",
+      "A": "Hujayra devorining butunlay eritilib ketishiga",
+      "B": "Suvning buyum oynasiga singib ketishiga",
+      "C": "Bo'yoq moddasining kimyoviy parchalanishiga",
+      "D": "Oqsillarning issiqlikda koagulyatsiyasiga",
+      "E": "Mikroblarning past haroratda muzlab qotishiga",
+      "correct": "D",
+      "comment": "To'g'ri javob: Oqsillarning issiqlikda koagulyatsiyasiga. Ivigan oqsillar mikrobni oynaga biriktiradi. Manba: Mavzu materiali (006.docx); Tille PM. Bailey & Scott's Diagnostic Microbiology, 15th ed. (2022)."
+    },
+    {
+      "q": "Nozik hujayralar (masalan, qon surtmalari) uchun qaysi fiksatsiya afzal?",
+      "A": "Kimyoviy fiksatsiya (masalan, metanol)",
+      "B": "Muzlatib, juda past haroratda qotirish",
+      "C": "Ultrabinafsha nur bilan uzoq nurlantirish",
+      "D": "Qaynoq bug' oqimi bilan fiksatsiyalash",
+      "E": "Alangada uzoq muddat kuchli qizdirish",
+      "correct": "A",
+      "comment": "To'g'ri javob: Kimyoviy fiksatsiya (masalan, metanol). U morfologiyani termik usuldan yaxshiroq saqlaydi. Manba: Mavzu materiali (006.docx)."
+    },
+    {
+      "q": "Termik fiksatsiyada preparat qanday bajariladi?",
+      "A": "Preparat alangada uzluksiz bir soat ushlab turiladi",
+      "B": "Oyna muz ustiga qo'yilib, to'liq qotirib olinadi",
+      "C": "Oyna qaynoq suvda bir muncha qaynatilib, so'ng sovitiladi",
+      "D": "Surtma pastga qaratilib, qaynoq suyuqlikka cho'ktiriladi",
+      "E": "Surtma yuqoriga qaratilib, alangadan 3–4 marta o'tkaziladi",
+      "correct": "E",
+      "comment": "To'g'ri javob: Surtma yuqoriga qaratilib, alangadan 3–4 marta o'tkaziladi. Oyna qo'l orqasiga chidarli iliq bo'lishi me'yor. Manba: Mavzu materiali (006.docx)."
+    },
+    {
+      "q": "Fiksatsiya quyidagi maqsadlardan qaysi birini ko'zlamaydi?",
+      "A": "Preparatni bo'yash va yuvishga chidamli qilish",
+      "B": "Mikroblarni oynaga mustahkam biriktirish",
+      "C": "Mikroblarni o'ldirib, zararsizlantirish",
+      "D": "Mikroblarni ko'paytirib, sonini oshirish",
+      "E": "Oqsillarni ivitib, bo'yoqni qabul qildirish",
+      "correct": "D",
+      "comment": "To'g'ri javob: Mikroblarni ko'paytirib, sonini oshirish. Fiksatsiya aksincha mikroblarni o'ldiradi; ko'paytirish uning maqsadi emas. Manba: Mavzu materiali (006.docx)."
+    },
+    {
+      "q": "Fiksatsiya sporalarga qanday ta'sir qiladi?",
+      "A": "Ularni har doim ham yo'q qila olmaydi",
+      "B": "Ularni har doim to'liq yo'q qilib yuboradi",
+      "C": "Ularga umuman hech qanday ta'sir qilmaydi",
+      "D": "Ularni qizil rangga bo'yab qo'yadi",
+      "E": "Ularni ko'paytirib, sonini oshiradi",
+      "correct": "A",
+      "comment": "To'g'ri javob: Ularni har doim ham yo'q qila olmaydi. Fiksatsiyadan keyin ham preparat potensial xavfli hisoblanadi. Manba: Mavzu materiali (006.docx); WHO. Laboratory biosafety manual, 4th ed. (2020)."
+    },
+    {
+      "q": "Haddan ortiq qizdirib fiksatsiya qilish qanday oqibatga olib keladi?",
+      "A": "Bo'yoq reaktivi ancha tejamli sarflanadigan bo'ladi",
+      "B": "Preparat foni ravshanroq va tozaroq bo'lib qoladi",
+      "C": "Hujayralar yorilib, morfologiya buziladi",
+      "D": "Tayyor preparat ancha uzoqroq muddat saqlanadi",
+      "E": "Mikroblar mikroskopda yanada yaxshiroq ko'rinadi",
+      "correct": "C",
+      "comment": "To'g'ri javob: Hujayralar yorilib, morfologiya buziladi. Fiksatsiya oltin o'rtalikni talab qiladi. Manba: Mavzu materiali (006.docx)."
+    },
+    {
+      "q": "Kimyoviy fiksatorlar (spirt, efir, atseton) bilan ishlashda qanday qoida muhim?",
+      "A": "Modda termostatda qizdirib ishlatilishi zarur",
+      "B": "Reaktivni alangaga yaqin tutib ishlatish kerak",
+      "C": "Fiksatorni issiq holatda quyib ishlatish lozim",
+      "D": "Eritmani qo'lqopsiz, ochiq qo'l bilan ishlatsa bo'ladi",
+      "E": "Yonuvchan bo'lgani uchun alangadan uzoqda ishlatiladi",
+      "correct": "E",
+      "comment": "To'g'ri javob: Yonuvchan bo'lgani uchun alangadan uzoqda ishlatiladi. Bu yong'in xavfining oldini oladi. Manba: Mavzu materiali (006.docx)."
+    }
+  ],
+  "007": [
+    {
+      "q": "Oddiy (sodda) bo'yash usulida nechta bo'yoq ishlatiladi?",
+      "A": "Bo'yoq umuman ishlatilmay, fiksatsiya qilinadi",
+      "B": "Ikkita kontrast bo'yoq birin-ketin qo'shiladi",
+      "C": "Bitta bo'yoq, barcha mikroblar bir xil bo'yaladi",
+      "D": "To'rtta reaktiv ketma-ket navbat bilan qo'llaniladi",
+      "E": "Uchta bo'yoq navbatma-navbat ishlatib boriladi",
+      "correct": "C",
+      "comment": "To'g'ri javob: Bitta bo'yoq, barcha mikroblar bir xil bo'yaladi. Oddiy bo'yash bir bosqichdan iborat. Manba: Mavzu materiali (007.docx); Leber AL (ed). CMPH, 4th ed. (ASM, 2016)."
+    },
+    {
+      "q": "Oddiy bo'yashda asosli (ishqoriy) bo'yoqlar nega yaxshi bog'lanadi?",
+      "A": "Hujayra yuzasi yog'li va gidrofob bo'lgani uchun",
+      "B": "Hujayra yuzasi manfiy zaryadli bo'lgani uchun",
+      "C": "Hujayra yuzasi neytral, zaryadsiz bo'lgani uchun",
+      "D": "Bo'yoqning o'zi manfiy zaryadli bo'lgani uchun",
+      "E": "Bo'yoq hujayra tomonidan qaytarilgani uchun",
+      "correct": "B",
+      "comment": "To'g'ri javob: Hujayra yuzasi manfiy zaryadli bo'lgani uchun. U musbat zaryadli asosli bo'yoqlarni tortadi. Manba: Mavzu materiali (007.docx)."
+    },
+    {
+      "q": "Metilen ko'ki bilan bo'yash qaysi diagnostik belgini yaxshi ko'rsatadi?",
+      "A": "Spora qobig'ining qalinlik darajasini",
+      "B": "Kapsulaning to'liq hajmi va chegarasini",
+      "C": "C. diphtheriae da Babesh-Ernst donachalarini",
+      "D": "Gram-manfiy hujayra devori tuzilishini",
+      "E": "Kislotabardoshlik, ya'ni rangni saqlashni",
+      "correct": "C",
+      "comment": "To'g'ri javob: C. diphtheriae da Babesh-Ernst donachalarini. Metilen ko'ki metaxromatik (polar) donachalarni aniq ko'rsatadi. Manba: Mavzu materiali (007.docx); Procop GW va boshq. Koneman's Atlas, 7th ed. (2017)."
+    },
+    {
+      "q": "Kislotali bo'yoqlar mikrobiologiyada asosan qanday maqsadda ishlatiladi?",
+      "A": "Mikroblarni o'ldirib zararsizlantirishda",
+      "B": "Kislotabardoshlikni belgilashda",
+      "C": "Sporalarni rangsizlantirib ajratishda",
+      "D": "Fonni bo'yashda (negativ bo'yashda)",
+      "E": "Hujayrani to'g'ridan-to'g'ri bo'yashda",
+      "correct": "D",
+      "comment": "To'g'ri javob: Fonni bo'yashda (negativ bo'yashda). Kislotali bo'yoq manfiy zaryadli bo'lib, hujayra tomonidan qaytariladi. Manba: Mavzu materiali (007.docx)."
+    },
+    {
+      "q": "Oddiy bo'yashdan keyin preparat qaysi ob'ektiv ostida ko'riladi?",
+      "A": "Immersion ob'ektiv (1000x) ostida",
+      "B": "Ob'ektivsiz, oddiy lupa yordamida",
+      "C": "10x kichik quruq ob'ektiv ostida",
+      "D": "4x obzor (eng kichik) ob'ektiv ostida",
+      "E": "40x o'rta quruq ob'ektiv ostida",
+      "correct": "A",
+      "comment": "To'g'ri javob: Immersion ob'ektiv (1000x) ostida. Mayda bakteriyalarni ko'rish uchun shu kattalashtirish zarur. Manba: Mavzu materiali (007.docx).",
+      "numeric": true
+    },
+    {
+      "q": "Bo'yash vaqti juda uzaytirilsa, preparat qanday ko'rinadi?",
+      "A": "Ortiqcha bo'yalib, fon qoraygan bo'ladi",
+      "B": "Fon ravshan va toza bo'lib qoladi",
+      "C": "Mikroblar umuman bo'yalmay qoladi",
+      "D": "Mikroblar fondan yaxshiroq ajraladi",
+      "E": "Surtma o'z-o'zidan yupqalashib qoladi",
+      "correct": "A",
+      "comment": "To'g'ri javob: Ortiqcha bo'yalib, fon qoraygan bo'ladi. Juda qisqa vaqt esa yetarli bo'yamaydi. Manba: Mavzu materiali (007.docx)."
+    },
+    {
+      "q": "Negativ (fon) bo'yash ayniqsa qaysi mikroblarni ko'rsatishda qulay?",
+      "A": "Sporali anaerob tayoqchalarni (klostridiya)",
+      "B": "Hujayra devorsiz mikoplazmalarni",
+      "C": "Harakatchan vibrionlarni (vabo qo'zg'atuvchisi)",
+      "D": "Kislotabardosh tayoqchalarni (mikobakteriya)",
+      "E": "Kapsulali mikroblarni (Klebsiella, pnevmokokk)",
+      "correct": "E",
+      "comment": "To'g'ri javob: Kapsulali mikroblarni (Klebsiella, pnevmokokk). Issiqlik ishlatilmagani uchun kapsula tabiiy saqlanadi. Manba: Mavzu materiali (007.docx)."
+    },
+    {
+      "q": "Oddiy bo'yashning asosiy cheklovi nimada?",
+      "A": "Natijani faqat bir haftada taqdim etadi",
+      "B": "Juda sekin va qimmatga tushadigan usuldir",
+      "C": "Maxsus, qimmat jihoz va reaktiv talab qiladi",
+      "D": "Mikroblarni devor xususiyatiga ko'ra ajratmaydi",
+      "E": "Faqat o'lik mikroblarda ishlaydigan usuldir",
+      "correct": "D",
+      "comment": "To'g'ri javob: Mikroblarni devor xususiyatiga ko'ra ajratmaydi. Buning uchun differensial usullar (Gram, Sil-Nilsen) qo'llaniladi. Manba: Mavzu materiali (007.docx)."
+    },
+    {
+      "q": "Oddiy bo'yashda qaysi bo'yoqlar keng ishlatiladi?",
+      "A": "Malaxit yashili va atseton eritmasi",
+      "B": "Karbol fuksin va kislota-spirt eritmasi",
+      "C": "Tush, nigrozin va fon bo'yoqlari",
+      "D": "Lyugol eritmasi va 96% etil spirti",
+      "E": "Metilen ko'ki, fuksin, gentsian binafshasi",
+      "correct": "E",
+      "comment": "To'g'ri javob: Metilen ko'ki, fuksin, gentsian binafshasi. Bular oddiy bo'yashda qo'llaniladigan asosli bo'yoqlar. Manba: Mavzu materiali (007.docx)."
+    },
+    {
+      "q": "Surtmani yuvishda suv oqimi qanday yo'naltiriladi?",
+      "A": "Umuman yuvilmay, quruq latta bilan artiladi",
+      "B": "Surtmaga emas, sekin oqib tushadigan tarzda",
+      "C": "Surtma markaziga nuqtalab, kuch bilan purkab",
+      "D": "Kuchli oqim bilan to'g'ridan-to'g'ri surtma ustiga",
+      "E": "Qaynoq suv bilan, juda yuqori bosim ostida",
+      "correct": "B",
+      "comment": "To'g'ri javob: Surtmaga emas, sekin oqib tushadigan tarzda. Kuchli oqim mikroblarni yuvib yuborishi mumkin. Manba: Mavzu materiali (007.docx); Leber AL (ed). CMPH, 4th ed. (ASM, 2016)."
+    }
+  ],
+  "008": [
+    {
+      "q": "Gram usulida bo'yash mikroblarni nechta guruhga ajratadi?",
+      "A": "Besh guruhga, hosil bo'lgan rang bo'yicha",
+      "B": "Uch guruhga: musbat, manfiy va o'zgaruvchan",
+      "C": "Ikki guruhga: Gram-musbat va Gram-manfiy",
+      "D": "Guruhlarga ajratmaydi, faqat bo'yaydi",
+      "E": "To'rt guruhga, devor qalinligi bo'yicha",
+      "correct": "C",
+      "comment": "To'g'ri javob: Ikki guruhga: Gram-musbat va Gram-manfiy. Bu hujayra devori tuzilishiga asoslanadi. Manba: Mavzu materiali (008.docx); Leber AL (ed). CMPH, 4th ed. (ASM, 2016)."
+    },
+    {
+      "q": "Gram-musbat bakteriyalar natijada qaysi rangda ko'rinadi?",
+      "A": "Qizil-pushti rangda",
+      "B": "Rangsiz, fonda yorug' holda",
+      "C": "Sarg'ish-yashil rangda",
+      "D": "To'q qora, dog' kabi rangda",
+      "E": "Ko'k-binafsha rangda",
+      "correct": "E",
+      "comment": "To'g'ri javob: Ko'k-binafsha rangda. Qalin peptidoglikan bo'yoq-yod kompleksini ushlab qoladi. Manba: Mavzu materiali (008.docx)."
+    },
+    {
+      "q": "Gram bo'yashda Lyugol eritmasi (yod) qanday vazifani bajaradi?",
+      "A": "Hujayra devorini eritib yuboradigan vosita",
+      "B": "Qo'shimcha kontrast bo'yoq vazifasini o'taydi",
+      "C": "Rangsizlantiruvchi vosita vazifasini bajaradi",
+      "D": "Preparatni quritib beradigan modda sifatida",
+      "E": "Mordant: bo'yoq-yod kompleksini hosil qiladi",
+      "correct": "E",
+      "comment": "To'g'ri javob: Mordant: bo'yoq-yod kompleksini hosil qiladi. Bu kompleks hujayrada ushlanishni mustahkamlaydi. Manba: Mavzu materiali (008.docx)."
+    },
+    {
+      "q": "Gram bo'yashning eng nozik va xatoga moyil bosqichi qaysi?",
+      "A": "Qo'shimcha bo'yoqni tomizish bosqichi",
+      "B": "Lyugol eritmasini tomizish bosqichi",
+      "C": "Gentsian binafshasi bilan bo'yash bosqichi",
+      "D": "Spirt bilan rangsizlantirish bosqichi",
+      "E": "Preparatni quritib olish bosqichi",
+      "correct": "D",
+      "comment": "To'g'ri javob: Spirt bilan rangsizlantirish bosqichi. Uzoq spirt Gram-musbatni yolg'on manfiy, qisqasi Gram-manfiyni binafsha qoldiradi. Manba: Mavzu materiali (008.docx)."
+    },
+    {
+      "q": "Gram bo'yash sifat nazoratida qaysi nazorat shtammlari ishlatiladi?",
+      "A": "S. aureus (musbat) va E. coli (manfiy)",
+      "B": "Grippning virus kulturalari ishlatiladi",
+      "C": "Nazorat shtammi umuman ishlatilmaydi",
+      "D": "M. tuberculosis va M. leprae shtammlari",
+      "E": "Turli zamburug' kulturalari va shtammlar",
+      "correct": "A",
+      "comment": "To'g'ri javob: S. aureus (musbat) va E. coli (manfiy). Ular bo'yash to'g'riligini tasdiqlaydi. Manba: Mavzu materiali (008.docx); Tille PM. Bailey & Scott's Diagnostic Microbiology, 15th ed. (2022)."
+    },
+    {
+      "q": "Gram-manfiy bakteriyalarda spirt qanday ta'sir qiladi?",
+      "A": "Lipid membranani eritib, bo'yoqni yuvadi",
+      "B": "Qalin peptidoglikan g'ovaklarini toraytiradi",
+      "C": "Hujayrani ko'k-binafsha rangda qoldiradi",
+      "D": "Bo'yoqni hujayrada yanada mustahkam ushlaydi",
+      "E": "Devorni hech qanday o'zgarishsiz qoldiradi",
+      "correct": "A",
+      "comment": "To'g'ri javob: Lipid membranani eritib, bo'yoqni yuvadi. Yupqa peptidoglikan kompleksni ushlab tura olmaydi. Manba: Mavzu materiali (008.docx)."
+    },
+    {
+      "q": "Likvorda Gram-manfiy diplokokklar topilishi qaysi infeksiyaga shubha uyg'otadi?",
+      "A": "Zamburug'li (kandidoz) infeksiyaga",
+      "B": "Sil (tuberkulyoz) kasalligiga",
+      "C": "Meningokokk infeksiyasiga",
+      "D": "Ichak tayoqchasi infeksiyasiga",
+      "E": "Stafilokokk infeksiyasiga",
+      "correct": "C",
+      "comment": "To'g'ri javob: Meningokokk infeksiyasiga. Gram natijasi shifokorga empirik antibiotik tanlashda yordam beradi. Manba: Mavzu materiali (008.docx); Tille PM. Bailey & Scott's Diagnostic Microbiology, 15th ed. (2022)."
+    },
+    {
+      "q": "Haddan ortiq rangsizlantirish Gram-musbat mikroblarda qanday xatoga olib keladi?",
+      "A": "Ular sarg'ish-yashil nur sochadi",
+      "B": "Ular butunlay rangsiz holda qoladi",
+      "C": "Ular qora dog'ga aylanib ketadi",
+      "D": "Ular yolg'on Gram-manfiy ko'rinadi",
+      "E": "Ular yanada quyuq binafsha bo'ladi",
+      "correct": "D",
+      "comment": "To'g'ri javob: Ular yolg'on Gram-manfiy ko'rinadi. Shu bois rangsizlantirish vaqti nazorat qilinadi. Manba: Mavzu materiali (008.docx)."
+    },
+    {
+      "q": "Quyidagi mikroblardan qaysi biri Gram bo'yashda yaxshi ko'rinmaydi?",
+      "A": "Ichak tayoqchalari oilasi vakillari",
+      "B": "Mikobakteriyalar (mumsimon devor tufayli)",
+      "C": "Streptokokklar (zanjir hosil qiluvchi)",
+      "D": "Stafilokokklar (to'da hosil qiluvchi)",
+      "E": "Neysseriyalar (Gram-manfiy diplokokk)",
+      "correct": "B",
+      "comment": "To'g'ri javob: Mikobakteriyalar (mumsimon devor tufayli). Ular uchun maxsus usullar qo'llaniladi. Manba: Mavzu materiali (008.docx)."
+    },
+    {
+      "q": "Gram bo'yashda qo'shimcha (kontrast) bo'yoq sifatida nima ishlatiladi?",
+      "A": "Lyugol eritmasi (yod va kaliy yodidi)",
+      "B": "Suyultirilgan fuksin yoki safranin",
+      "C": "Malaxit yashili yoki nigrozin",
+      "D": "Gentsian yoki kristall binafsha",
+      "E": "96% etil spirti yoki atseton",
+      "correct": "B",
+      "comment": "To'g'ri javob: Suyultirilgan fuksin yoki safranin. U rangsizlangan Gram-manfiy hujayralarni qizil rangga bo'yaydi. Manba: Mavzu materiali (008.docx)."
+    }
+  ],
+  "009": [
+    {
+      "q": "Sil-Nilsen usuli avvalo qaysi mikroblarni aniqlashga mo'ljallangan?",
+      "A": "Kapsulali pnevmokokk diplokokklarini",
+      "B": "Anaerob sporali tayoqchalarni (klostridiya)",
+      "C": "Harakatchan Gram-manfiy ichak tayoqchalarini",
+      "D": "Gram-musbat to'da kokklarini (stafilokokk)",
+      "E": "Kislotabardosh mikroblarni (M. tuberculosis)",
+      "correct": "E",
+      "comment": "To'g'ri javob: Kislotabardosh mikroblarni (M. tuberculosis). Ularning devori mikol kislotalariga boy. Manba: Mavzu materiali (009.docx); Leber AL (ed). CMPH, 4th ed. (ASM, 2016)."
+    },
+    {
+      "q": "Mikobakteriyalarni oddiy bo'yash nega samarasiz?",
+      "A": "Hujayra devori ularda umuman yo'qligi sababli",
+      "B": "Hujayralari juda yirik o'lchamli bo'lgani uchun",
+      "C": "Devori mumsimon bo'lib, bo'yoqni o'tkazmaydi",
+      "D": "Juda tez harakatlanadigan mikroblar bo'lgani uchun",
+      "E": "Faqatgina suyuq oziqa muhitida o'sadigani uchun",
+      "correct": "C",
+      "comment": "To'g'ri javob: Devori mumsimon bo'lib, bo'yoqni o'tkazmaydi. Mikol kislotalari qatlami bo'yoqni kiritmaydi, shu bois maxsus usul kerak. Manba: Mavzu materiali (009.docx)."
+    },
+    {
+      "q": "Sil-Nilsen usulida bo'yoq hujayra ichiga qanday kiritiladi?",
+      "A": "Sentrifuga bosimi yordamida majburan",
+      "B": "Fenol ishtirokida va qizdirish yordamida",
+      "C": "Muzlatib, so'ngra eritish orqali",
+      "D": "Faqat uzoq vaqt ta'sir ettirish bilan",
+      "E": "Kislota bilan yuvib tozalash orqali",
+      "correct": "B",
+      "comment": "To'g'ri javob: Fenol ishtirokida va qizdirish yordamida. Issiqlik va fenol mikol kislotalari to'sig'ini yengadi. Manba: Mavzu materiali (009.docx)."
+    },
+    {
+      "q": "Sil-Nilsen bo'yashida kislotabardosh mikroblar natijada qaysi rangda ko'rinadi?",
+      "A": "Binafsha (gentsian) rangda ko'rinadi",
+      "B": "To'q sariq tusda ko'rinadi",
+      "C": "Ko'k (metilen) rangda ko'rinadi",
+      "D": "Och yashil tusda ko'rinadi",
+      "E": "Qizil (rubin) rangda ko'rinadi",
+      "correct": "E",
+      "comment": "To'g'ri javob: Qizil (rubin) rangda ko'rinadi. Fon va boshqa mikroblar esa ko'k rangda ko'rinadi. Manba: Mavzu materiali (009.docx)."
+    },
+    {
+      "q": "Kislotabardoshlik xususiyati nima bilan izohlanadi?",
+      "A": "Devordagi mikol kislotalarining zich qatlami bilan",
+      "B": "Hujayraning juda yuqori harakatchanligi bilan bog'liq",
+      "C": "Hujayra devorida peptidoglikan yo'qligi bilan izohlanadi",
+      "D": "Endospora qobig'ining yuqori zichlik darajasi bilan",
+      "E": "Hujayra atrofidagi kapsula qatlamining qalinligi bilan",
+      "correct": "A",
+      "comment": "To'g'ri javob: Devordagi mikol kislotalarining zich qatlami bilan. Bu gidrofob qatlam bo'yoq va boshqa ta'sirlarga chidam beradi. Manba: Mavzu materiali (009.docx)."
+    },
+    {
+      "q": "Sil-Nilsen usulida qo'shimcha (kontrast) bo'yoq sifatida nima ishlatiladi?",
+      "A": "Gentsian binafshasi",
+      "B": "Safranin",
+      "C": "Malaxit yashili",
+      "D": "Metilen ko'ki",
+      "E": "Nigrozin bo'yog'i",
+      "correct": "D",
+      "comment": "To'g'ri javob: Metilen ko'ki. U fon va kislotabardosh bo'lmagan hujayralarni ko'k rangga bo'yaydi. Manba: Mavzu materiali (009.docx)."
+    },
+    {
+      "q": "Balg'am mikroskopiyasining sezgirligi haqida qaysi fikr to'g'ri?",
+      "A": "Mikroblar kam bo'lsa ham doimo aniqlanadi",
+      "B": "Natija har doim faqat bir oyda chiqadi",
+      "C": "Mikroblar ko'p bo'lgandagina aniqlanadi",
+      "D": "Manfiy natija sil kasalligini butunlay inkor etadi",
+      "E": "Hatto bitta mikrob ham ishonchli aniqlanadi",
+      "correct": "C",
+      "comment": "To'g'ri javob: Mikroblar ko'p bo'lgandagina aniqlanadi. Manfiy natija silni inkor etmaydi; zarurda ekish va molekulyar testlar bilan to'ldiriladi. Manba: Mavzu materiali (009.docx); WHO. Laboratory services in TB control, Part II: Microscopy."
+    },
+    {
+      "q": "Zamonaviy amaliyotda Sil-Nilsen bilan bir qatorda qaysi usul keng qo'llaniladi?",
+      "A": "Ojeshko usulida endospora bo'yash",
+      "B": "Oddiy metilen ko'ki bilan bir bosqichli bo'yash",
+      "C": "Tush yordamida bajariladigan negativ bo'yash",
+      "D": "Auramin bilan flyuoressent mikroskopiya",
+      "E": "Gram usulida differensial bo'yash",
+      "correct": "D",
+      "comment": "To'g'ri javob: Auramin bilan flyuoressent mikroskopiya. U sezgirligi yuqoriroq va tezroq. Manba: Mavzu materiali (009.docx); WHO. Laboratory services in TB control, Part II: Microscopy."
+    },
+    {
+      "q": "Sil tashxisida balg'am namunasi afzal qaysi vaqtda olinadi?",
+      "A": "Tushdan keyin, ovqatlanib bo'lingan paytda",
+      "B": "Ertalab, mikroblar konsentratsiyasi yuqoriroq",
+      "C": "Istalgan vaqtda, buning umuman farqi yo'q",
+      "D": "Faqat antibiotik berib bo'linganidan keyin",
+      "E": "Kechqurun, uyquga yotishdan sal oldin",
+      "correct": "B",
+      "comment": "To'g'ri javob: Ertalab, mikroblar konsentratsiyasi yuqoriroq. Bu mikroskopiya sezgirligini oshiradi. Manba: Mavzu materiali (009.docx)."
+    },
+    {
+      "q": "Qizdirish bosqichida karbol fuksin qurib qolsa, nima qilinadi?",
+      "A": "Qo'shimcha karbol fuksin tomiziladi",
+      "B": "Spirt bilan yuvib tozalab tashlanadi",
+      "C": "Preparat suvda qaynatilib olinadi",
+      "D": "Preparat darhol tashlab yuboriladi",
+      "E": "Ustiga metilen ko'ki quyib yuboriladi",
+      "correct": "A",
+      "comment": "To'g'ri javob: Qo'shimcha karbol fuksin tomiziladi. Eritma qaynab, qurib qolmasligi lozim. Manba: Mavzu materiali (009.docx)."
+    }
+  ],
+  "010": [
+    {
+      "q": "Ojeshko usuli nimani aniqlashga mo'ljallangan?",
+      "A": "Kislotabardosh tayoqchalarni",
+      "B": "Bakteriya sporalarini (endosporalarni)",
+      "C": "Hujayra atrofidagi kapsulalarni",
+      "D": "Gram-manfiy devor tuzilishini",
+      "E": "Harakat xivchinlarini (jgutiklarni)",
+      "correct": "B",
+      "comment": "To'g'ri javob: Bakteriya sporalarini (endosporalarni). Spora qobig'i zich bo'lgani uchun maxsus usul kerak. Manba: Mavzu materiali (010.docx); Tille PM. Bailey & Scott's Diagnostic Microbiology, 15th ed. (2022)."
+    },
+    {
+      "q": "Endospora hosil qilish qobiliyati asosan qaysi avlodlarga xos?",
+      "A": "Neisseria va Klebsiella avlodlariga",
+      "B": "Escherichia va Salmonella avlodlariga",
+      "C": "Mycobacterium va Nocardia guruhiga",
+      "D": "Staphylococcus va Streptococcus guruhiga",
+      "E": "Bacillus va Clostridium avlodlariga",
+      "correct": "E",
+      "comment": "To'g'ri javob: Bacillus va Clostridium avlodlariga. Faqat ayrim bakteriyalar noqulay sharoitda endospora hosil qiladi. Manba: Mavzu materiali (010.docx)."
+    },
+    {
+      "q": "Ojeshko usulida protrava bosqichida nima qilinadi?",
+      "A": "Xlorid kislota bilan qizdirib ishlov beriladi",
+      "B": "Preparat sof etil spirti bilan yuvib tozalanadi",
+      "C": "Preparat yuqori tezlikda sentrifugalab cho'ktiriladi",
+      "D": "Spora darhol malaxit yashili bilan bo'yab olinadi",
+      "E": "Spora to'g'ridan-to'g'ri metilen ko'ki bilan qoplanadi",
+      "correct": "A",
+      "comment": "To'g'ri javob: Xlorid kislota bilan qizdirib ishlov beriladi. Bu sporaning zich qobig'ini yumshatib, bo'yoqqa o'tkazuvchanligini oshiradi. Manba: Mavzu materiali (010.docx)."
+    },
+    {
+      "q": "Ojeshko usulida natijada sporalar va vegetativ hujayra qanday ko'rinadi?",
+      "A": "Spora va hujayra, ikkisi ham rangsiz holda",
+      "B": "Spora va hujayra, ikkisi ham qizil rangda",
+      "C": "Spora qizil, vegetativ hujayra ko'k rangda",
+      "D": "Spora va hujayra, ikkisi ham ko'k rangda",
+      "E": "Spora ko'k, vegetativ hujayra qizil rangda",
+      "correct": "C",
+      "comment": "To'g'ri javob: Spora qizil, vegetativ hujayra ko'k rangda. Kontrast ranglar ularni aniq ajratadi. Manba: Mavzu materiali (010.docx)."
+    },
+    {
+      "q": "C. tetani da spora qanday joylashib, hujayraga xos ko'rinish beradi?",
+      "A": "Markazda joylashib, hujayrani deformatsiyalamaydi",
+      "B": "Butun hujayra ichini to'ldirib yuboradi",
+      "C": "Terminal joylashib, «baraban cho'pi» beradi",
+      "D": "Juft bo'lib joylashib, zanjir hosil qiladi",
+      "E": "Hujayra tashqarisida, erkin holda joylashadi",
+      "correct": "C",
+      "comment": "To'g'ri javob: Terminal joylashib, «baraban cho'pi» beradi. B. anthracis da spora markazda joylashadi. Manba: Mavzu materiali (010.docx); Tille PM. Bailey & Scott's Diagnostic Microbiology, 15th ed. (2022)."
+    },
+    {
+      "q": "Spora joylashuvi bo'yicha uch asosiy variant qaysilar?",
+      "A": "Yakka, juft va zanjir holidagi",
+      "B": "Musbat, manfiy va o'zgaruvchan",
+      "C": "Aerob, anaerob va fakultativ",
+      "D": "Markaziy, terminal va subterminal",
+      "E": "Yupqa, qalin va o'rtacha qalin",
+      "correct": "D",
+      "comment": "To'g'ri javob: Markaziy, terminal va subterminal. Bular sporaning hujayra ichidagi o'rniga ko'ra ajratiladi. Manba: Mavzu materiali (010.docx)."
+    },
+    {
+      "q": "Sporaning yuqori chidamliligi asosan nima bilan bog'liq?",
+      "A": "Yuza membranasining kuchli manfiy zaryadi",
+      "B": "Kam suv, kaltsiy dipikolinat va himoya oqsillari",
+      "C": "Harakat xivchinlarining yuqori soni va uzunligi",
+      "D": "Tashqi kapsula qatlamining qalinligi va zichligi",
+      "E": "Devordagi mumsimon mikol kislotalar qatlami",
+      "correct": "B",
+      "comment": "To'g'ri javob: Kam suv, kaltsiy dipikolinat va himoya oqsillari. Shu bois sporalar juda chidamli. Manba: Mavzu materiali (010.docx)."
+    },
+    {
+      "q": "Sporali mikroblarni ishonchli yo'q qilish uchun qaysi usul talab qilinadi?",
+      "A": "Oddiy qaynatish (100 °C da) yetarli bo'ladi",
+      "B": "Ko'pchilik dezinfektant eritmalar bilan ishlov",
+      "C": "Etil spirt bilan yuzani artib tozalash",
+      "D": "Bosim ostida bug' bilan avtoklavlash",
+      "E": "Ultrabinafsha nur bilan uzoq nurlantirish",
+      "correct": "D",
+      "comment": "To'g'ri javob: Bosim ostida bug' bilan avtoklavlash. Oddiy qaynatish yoki aksar dezinfektantlar sporalarni o'ldira olmaydi. Manba: Mavzu materiali (010.docx); WHO. Laboratory biosafety manual, 4th ed. (2020)."
+    },
+    {
+      "q": "Sterilizatsiya samaradorligini biologik nazorat qilishda nima ishlatiladi?",
+      "A": "Chidamli spora shtammlari (Bacillus sporalari)",
+      "B": "Harakatchan vabo vibrioni kulturalari",
+      "C": "Gram-manfiy ichak tayoqchalari kulturalari",
+      "D": "Kislotabardosh mikobakteriya shtammlari",
+      "E": "Kapsulali pnevmokokk toza kulturalari",
+      "correct": "A",
+      "comment": "To'g'ri javob: Chidamli spora shtammlari (Bacillus sporalari). Agar sterilizatsiya ularni o'ldirsa, boshqa mikroblarni albatta yo'q qiladi. Manba: Mavzu materiali (010.docx)."
+    },
+    {
+      "q": "Oddiy bo'yashda spora qanday namoyon bo'lishi mumkin?",
+      "A": "Qizil rangdagi aniq, to'q nuqta sifatida",
+      "B": "Ko'k rangdagi uzun, yo'g'on zanjir sifatida",
+      "C": "Yashil nur sochib turuvchi donacha sifatida",
+      "D": "To'q qora, xuddi kuygan dog' kabi sifatida",
+      "E": "Bo'yalmagan, yorug' (rangsiz) oval tuzilma",
+      "correct": "E",
+      "comment": "To'g'ri javob: Bo'yalmagan, yorug' (rangsiz) oval tuzilma. Uni ishonchli aniqlash uchun maxsus spora bo'yash usullari qo'llaniladi. Manba: Mavzu materiali (010.docx)."
+    }
+  ]
+}
